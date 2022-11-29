@@ -54,10 +54,6 @@ $ git fetch <저장소명> <브랜치명>
 
 ![image](https://user-images.githubusercontent.com/110793635/204507609-3575eb50-50c2-4816-b8b3-1cb8dd15239d.png)
 > 그 다음 ```git status``` 명령어를 사용해보니 1개의 commit이 있다는 것을 알려줍니다.  
-
-> 그리고 ```git branch -a```를 적어보니 다른 것들이 생겼습니다.
-
-![image](https://user-images.githubusercontent.com/110793635/204508046-4c738731-7d26-48af-a354-b279f51831d4.png)
 > fetch는 merge가 되지 않은 상태이기 때문에 merge를 합니다. 그러자 FF 상태로 merge가 된 것을 확인할 수 있었습니다.
 
 ![image](https://user-images.githubusercontent.com/110793635/204508497-74ea3b69-188f-4749-b6d4-85905bcf32e6.png)
