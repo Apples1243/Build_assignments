@@ -6,7 +6,7 @@
 git reset 사용법
 $ git reset <옵션> <돌아가고 싶은 커밋>
 ```
-### reset의 옵션 3가지
+### reset의 옵션 3가지 <sup>[출처](#footnote_1)</sup>
 - soft
 - mixed
 - hard
@@ -50,3 +50,5 @@ $ git reset <옵션> <돌아가고 싶은 커밋>
 ![image](https://user-images.githubusercontent.com/110793635/204525961-92c04431-3708-49fa-92fb-572a0bfd4005.png)
 - reset은 되돌리는 이후 커밋 이력이 제거된다.
 - revert는 현재까지의 커밋 이력에 되돌리기 커밋이 추가된다.
+
+<a name="footnote_1">출처</a>: https://github.com/ai7dnn/OSS-lect
